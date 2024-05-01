@@ -10,7 +10,7 @@
 
 ## Preview
 <a href="./assets/preview-1.png">
-  <img src="./assets/preview-1.png" width="80%" height="auto">
+  <img src="./assets/preview-1.png" width="40%" height="auto">
 </a>
 <!--- target = "_blank" not supported in GIT HTML Markdowns --->
 <!--- Discussion: https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank --->
